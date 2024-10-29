@@ -6,7 +6,7 @@ meu primeiro app
 
 
 Etapa 1: 
-Planejar as Funcionalidades
+## Planejar as Funcionalidades
 Defina o Objetivo do Aplicativo
 
 Pergunte-se: O que meu aplicativo deve fazer? Qual problema ele resolve ou qual necessidade ele atende?
